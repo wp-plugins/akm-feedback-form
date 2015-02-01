@@ -17,7 +17,7 @@ Just insert the [AKMFORM] shortcode in pages of your WordPress site to display a
 
 
 Install and activate the plugin. 
-Then add the [AKMFORM] shorttag in pages and posts to display a simple and easy to use Feedback form. This Plugin is best to use in sidebar. All Email are directly forward to admin's Email address
+Then add the [AKMFORM] shortcode in pages and posts to display a simple and easy to use Feedback form. This Plugin is best to use in sidebar. All Emails are directly forward to admin's Email address
 This feedback form includes jquery form validation.
 
 
