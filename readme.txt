@@ -30,3 +30,8 @@ Then add the [AKMFORM] shorttag in pages and posts.
 Or, if you prefer, a Widget form is provided too.
 
 No options, no configuration necessary - message is sent directly to the site administrator's email.
+
+== Screenshots ==
+
+1. Screenshot of Plugin
+2. Screenshot of Plugin with validations
