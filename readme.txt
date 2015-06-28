@@ -5,7 +5,7 @@ Donate link: http://akaalmedia.com/
 Tags: Free feedback form, Simple Contact Form, easy contact form, Easy to use, wordpress, wordpress plugin, top plugins, best plugins, contact form, jquery form.
 
 Requires at least: 3.0.1
-Tested up to: 4.1
+Tested up to: 4.2.2
 Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
