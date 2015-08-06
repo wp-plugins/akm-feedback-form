@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: AKM Feedback Form
-Plugin URI: http://www.akaalmedia.com/wordpress-plugins/akm-Feedback-form.zip
+Plugin URI: http://www.akaalmedia.com/
 Description: Just insert the [AKMFORM] shortcode in pages of your WordPress site to display a simple and easy to use Feedback form.
 Version: 1.0.1
 Author: Akaal Media
