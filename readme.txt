@@ -1,7 +1,7 @@
 === AKM Feedback Form === 
 
 Contributors: Akaal.Media
-Donate link: http://akaalmedia.com/
+Donate link: http://www.akaalmedia.com/
 Tags: Free feedback form, Simple Contact Form, easy contact form, Easy to use, wordpress, wordpress plugin, top plugins, best plugins, contact form, jquery form.
 
 Requires at least: 3.0.1
